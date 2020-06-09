@@ -1,5 +1,7 @@
 # DIGIT-RECOGNITION
 
+:date: Creation date: July 2019 
+
 ## :dart: Objective
 
 The neural network is trained on the MNIST dataset provided by the Keras API. It goal is to recognize handwritten digits.
